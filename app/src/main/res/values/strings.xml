@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Baca</string>
+    <string name="beranda">Beranda</string>
+    <string name="cari">Cari</string>
+    <string name="rekomendasi">Rekomendasi</string>
+    <string name="terpopuler">Terpopuler</string>
+    <string name="sort">SORT</string>
+    <string name="detail_title_indo">Bahasa Indonesia</string>
+    <string name="detail_title_indo_kelas">Kelas XII</string>
+    <string name="detail_subtitle_indo_kelas">Buku Pembelajaran SMA/SMK/SMA</string>
+    <string name="rating">Rating</string>
+    <string name="Halaman">Halaman</string>
+    <string name="Bahasa">Bahasa</string>
+    <string name="Genre">Genre</string>
+    <string name="rating_none">-</string>
+    <string name="baca">Baca</string>
+    <string name="unduh">Unduh</string>
+    <string name="tentang_buku">Tentang Buku</string>
+    <string name="tentang_buku_desc">Merupakan media belajar bagi sekolah menengah keatas dan buku nasional yang tersebar di semua daerah di Indonesia</string>
+    <string-array name="sort_app">
+
+        <item>Sort</item>
+        <item>Terpopuler</item>
+        <item>Terbaru</item>
+        <item>Terlama</item>
+
+    </string-array>
+
+</resources>
